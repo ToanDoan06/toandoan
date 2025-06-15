@@ -229,6 +229,9 @@ body.dark-mode footer {
 body.dark-mode a {
   color: #9aaaff;
 }
+.nutbam{
+   margin-left: -20px;
+}
 
 /* Dark mode poem */
 body.dark-mode .poem {
