@@ -187,6 +187,9 @@ footer {
     font-size: 13px;
     padding: 16px;
   }
+  .nutbam{
+   margin-left: -20px;
+  }
 }
 
 /* === DARK MODE === */
@@ -228,9 +231,6 @@ body.dark-mode footer {
 
 body.dark-mode a {
   color: #9aaaff;
-}
-.nutbam{
-   margin-left: -20px;
 }
 
 /* Dark mode poem */
