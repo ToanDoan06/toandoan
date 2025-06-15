@@ -172,6 +172,7 @@ footer {
     padding: 10px 20px;
     width: 100%;
     text-align: center;
+    margin-left: -20px;
   }
   main {
     padding: 20px 15px;
